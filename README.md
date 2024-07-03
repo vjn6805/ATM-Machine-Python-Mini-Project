@@ -3,13 +3,13 @@
 This repository contains a simple ATM Machine project written in Python. The project simulates the basic functionalities of an ATM machine including balance inquiry, cash withdrawal, cash deposit, PIN change, and transaction history.
 
 ## Features
-*__Voice Assistance :__ Provides voice feedback using the pyttsx3 library.
-*__User Authentication :__ Validates user credentials (name and PIN) from a stored data file.
-*__Balance Inquiry :__ Displays the current account balance.
-*__Cash Withdrawal :__ Allows users to withdraw cash if sufficient balance is available.
-*__Cash Deposit :__ Enables users to deposit cash into their account.
-*__PIN Change :__ Provides an option to change the account PIN.
-*__Transaction History :__ Keeps a record of all transactions performed
+* __Voice Assistance :__ Provides voice feedback using the pyttsx3 library.
+* __User Authentication :__ Validates user credentials (name and PIN) from a stored data file.
+* __Balance Inquiry :__ Displays the current account balance.
+* __Cash Withdrawal :__ Allows users to withdraw cash if sufficient balance is available.
+* __Cash Deposit :__ Enables users to deposit cash into their account.
+* __PIN Change :__ Provides an option to change the account PIN.
+* __Transaction History :__ Keeps a record of all transactions performed
 
 ## Prerequisites
 Before running the project, ensure you have the following installed:
